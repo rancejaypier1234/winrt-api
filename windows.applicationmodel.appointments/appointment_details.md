@@ -16,7 +16,7 @@ Gets or sets a string value. The string contains extended details that describe 
 The extended details that describe the appointment.
 
 ## -remarks
-<!--TBW more guidance on string form-->
+this seems to be broken!  Always returns a blank value.
 
 ## -examples
 
